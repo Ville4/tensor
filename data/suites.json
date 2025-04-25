@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "tests",
+    "children" : [ {
+      "name" : "test_vacancies_popup",
+      "children" : [ {
+        "name" : "TestVacanciesPopup",
+        "children" : [ {
+          "name" : "Сlick on element opens popup",
+          "uid" : "f83867a18dfe06ca",
+          "parentUid" : "2db4f0fb925b6fc88b936a2ada5e7935",
+          "status" : "broken",
+          "time" : {
+            "start" : 1745565797292,
+            "stop" : 1745565797292,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2db4f0fb925b6fc88b936a2ada5e7935"
+      } ],
+      "uid" : "71cfa4bda344b50c7ff7ae58e5bb4446"
+    } ],
+    "uid" : "e387fa4bb326b54ea8c19c2822aba374"
+  } ],
+  "name" : "suites"
+}

@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "tests.test_vacancies_popup",
+    "children" : [ {
+      "name" : "Сlick on element opens popup",
+      "uid" : "f83867a18dfe06ca",
+      "parentUid" : "a4ac41bf3b3f3055ec4404d3bece39e1",
+      "status" : "broken",
+      "time" : {
+        "start" : 1745565797292,
+        "stop" : 1745565797292,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "tests.test_vacancies_popup"
+  } ],
+  "name" : "packages"
+}

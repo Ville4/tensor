@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "4593cdaaf53a",
+    "children" : [ {
+      "name" : "1-MainThread",
+      "children" : [ {
+        "name" : "Сlick on element opens popup",
+        "uid" : "f83867a18dfe06ca",
+        "parentUid" : "7d9ecf281ea218ba63b13990db065ef9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1745565797292,
+          "stop" : 1745565797292,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7d9ecf281ea218ba63b13990db065ef9"
+    } ],
+    "uid" : "859170d82c23c6b91f5824598caf11c6"
+  } ],
+  "name" : "timeline"
+}

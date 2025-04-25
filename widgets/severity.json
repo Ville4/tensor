@@ -1,0 +1,11 @@
+[ {
+  "uid" : "f83867a18dfe06ca",
+  "name" : "Сlick on element opens popup",
+  "time" : {
+    "start" : 1745565797292,
+    "stop" : 1745565797292,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "critical"
+} ]
