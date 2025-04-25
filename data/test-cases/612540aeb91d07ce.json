@@ -1,22 +1,22 @@
 {
-  "uid" : "b5b81a14f85df16f",
+  "uid" : "612540aeb91d07ce",
   "name" : "Сlick on element opens popup",
   "fullName" : "tests.test_vacancies_popup.TestVacanciesPopup#test_click_on_element_opens_popup",
   "historyId" : "b19c6519a91295bf22c2fb367564c3ff",
   "time" : {
-    "start" : 1745566103690,
-    "stop" : 1745566115762,
-    "duration" : 12072
+    "start" : 1745567058588,
+    "stop" : 1745567065693,
+    "duration" : 7105
   },
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ {
-    "name" : "setup",
+    "name" : "driver",
     "time" : {
-      "start" : 1745566103690,
-      "stop" : 1745566103690,
-      "duration" : 0
+      "start" : 1745567058241,
+      "stop" : 1745567058587,
+      "duration" : 346
     },
     "status" : "passed",
     "steps" : [ ],
@@ -27,11 +27,11 @@
     "stepsCount" : 0,
     "hasContent" : false
   }, {
-    "name" : "driver",
+    "name" : "setup",
     "time" : {
-      "start" : 1745566103322,
-      "stop" : 1745566103690,
-      "duration" : 368
+      "start" : 1745567058588,
+      "stop" : 1745567058588,
+      "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
@@ -47,9 +47,9 @@
     "steps" : [ {
       "name" : "Open https://tensor.ru page",
       "time" : {
-        "start" : 1745566103690,
-        "stop" : 1745566110121,
-        "duration" : 6431
+        "start" : 1745567058588,
+        "stop" : 1745567061807,
+        "duration" : 3219
       },
       "status" : "passed",
       "steps" : [ ],
@@ -62,9 +62,9 @@
     }, {
       "name" : "Click on vacancies link",
       "time" : {
-        "start" : 1745566110121,
-        "stop" : 1745566112078,
-        "duration" : 1957
+        "start" : 1745567061807,
+        "stop" : 1745567063000,
+        "duration" : 1193
       },
       "status" : "passed",
       "steps" : [ ],
@@ -77,9 +77,9 @@
     }, {
       "name" : "Page https://tensor.ru/vacancies?filter_region=7600000100000000000 is opened",
       "time" : {
-        "start" : 1745566112078,
-        "stop" : 1745566112606,
-        "duration" : 528
+        "start" : 1745567063000,
+        "stop" : 1745567063525,
+        "duration" : 525
       },
       "status" : "passed",
       "steps" : [ ],
@@ -92,9 +92,9 @@
     }, {
       "name" : "Click on all directions button",
       "time" : {
-        "start" : 1745566112606,
-        "stop" : 1745566113176,
-        "duration" : 570
+        "start" : 1745567063525,
+        "stop" : 1745567063600,
+        "duration" : 75
       },
       "status" : "passed",
       "steps" : [ ],
@@ -107,9 +107,9 @@
     }, {
       "name" : "Click on software development link in popup",
       "time" : {
-        "start" : 1745566113176,
-        "stop" : 1745566115404,
-        "duration" : 2228
+        "start" : 1745567063601,
+        "stop" : 1745567065329,
+        "duration" : 1728
       },
       "status" : "passed",
       "steps" : [ ],
@@ -122,8 +122,8 @@
     }, {
       "name" : "Page url is switched to right url",
       "time" : {
-        "start" : 1745566115404,
-        "stop" : 1745566115417,
+        "start" : 1745567065329,
+        "stop" : 1745567065342,
         "duration" : 13
       },
       "status" : "passed",
@@ -136,11 +136,11 @@
       "hasContent" : false
     } ],
     "attachments" : [ {
-      "uid" : "43e19b3c13d4a752",
+      "uid" : "f3457e6cee3b4733",
       "name" : "Success",
-      "source" : "43e19b3c13d4a752.png",
+      "source" : "f3457e6cee3b4733.png",
       "type" : "image/png",
-      "size" : 1147147
+      "size" : 1125890
     } ],
     "parameters" : [ ],
     "attachmentsCount" : 1,
@@ -151,9 +151,9 @@
   "afterStages" : [ {
     "name" : "driver::0",
     "time" : {
-      "start" : 1745566115763,
-      "stop" : 1745566115848,
-      "duration" : 85
+      "start" : 1745567065694,
+      "stop" : 1745567065778,
+      "duration" : 84
     },
     "status" : "passed",
     "steps" : [ ],
@@ -184,7 +184,7 @@
     "value" : "TestVacanciesPopup"
   }, {
     "name" : "host",
-    "value" : "3a04fb638daa"
+    "value" : "0c0d8efde549"
   }, {
     "name" : "thread",
     "value" : "1-MainThread"
@@ -214,11 +214,19 @@
         "failed" : 0,
         "broken" : 1,
         "skipped" : 0,
-        "passed" : 1,
+        "passed" : 2,
         "unknown" : 0,
-        "total" : 2
+        "total" : 3
       },
       "items" : [ {
+        "uid" : "b5b81a14f85df16f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1745566103690,
+          "stop" : 1745566115762,
+          "duration" : 12072
+        }
+      }, {
         "uid" : "f83867a18dfe06ca",
         "status" : "broken",
         "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/chromium-browser is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
@@ -231,6 +239,6 @@
     },
     "tags" : [ "smoke" ]
   },
-  "source" : "b5b81a14f85df16f.json",
+  "source" : "612540aeb91d07ce.json",
   "parameterValues" : [ ]
 }

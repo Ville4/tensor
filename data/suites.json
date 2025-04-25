@@ -8,13 +8,13 @@
         "name" : "TestVacanciesPopup",
         "children" : [ {
           "name" : "Сlick on element opens popup",
-          "uid" : "b5b81a14f85df16f",
+          "uid" : "612540aeb91d07ce",
           "parentUid" : "2db4f0fb925b6fc88b936a2ada5e7935",
           "status" : "passed",
           "time" : {
-            "start" : 1745566103690,
-            "stop" : 1745566115762,
-            "duration" : 12072
+            "start" : 1745567058588,
+            "stop" : 1745567065693,
+            "duration" : 7105
           },
           "flaky" : false,
           "newFailed" : false,
