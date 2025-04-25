@@ -1,12 +1,12 @@
 {
-  "uid" : "b192ab0096075cc",
+  "uid" : "ce1a58249affe506",
   "name" : "Сlick on element opens popup",
   "fullName" : "tests.test_vacancies_popup.TestVacanciesPopup#test_click_on_element_opens_popup",
   "historyId" : "b19c6519a91295bf22c2fb367564c3ff",
   "time" : {
-    "start" : 1745567328283,
-    "stop" : 1745567336412,
-    "duration" : 8129
+    "start" : 1745569608643,
+    "stop" : 1745569618548,
+    "duration" : 9905
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,155 +14,155 @@
   "beforeStages" : [ {
     "name" : "setup",
     "time" : {
-      "start" : 1745567328282,
-      "stop" : 1745567328282,
+      "start" : 1745569608642,
+      "stop" : 1745569608642,
       "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : false,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
   }, {
     "name" : "driver",
     "time" : {
-      "start" : 1745567327897,
-      "stop" : 1745567328282,
-      "duration" : 385
+      "start" : 1745569608266,
+      "stop" : 1745569608642,
+      "duration" : 376
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : false,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
   } ],
   "testStage" : {
     "status" : "passed",
     "steps" : [ {
       "name" : "Open https://tensor.ru page",
       "time" : {
-        "start" : 1745567328283,
-        "stop" : 1745567332251,
-        "duration" : 3968
+        "start" : 1745569608643,
+        "stop" : 1745569613474,
+        "duration" : 4831
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
-      "hasContent" : false,
       "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
     }, {
       "name" : "Click on vacancies link",
       "time" : {
-        "start" : 1745567332251,
-        "stop" : 1745567333532,
-        "duration" : 1281
+        "start" : 1745569613474,
+        "stop" : 1745569615212,
+        "duration" : 1738
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
-      "hasContent" : false,
       "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
     }, {
       "name" : "Page https://tensor.ru/vacancies?filter_region=7600000100000000000 is opened",
       "time" : {
-        "start" : 1745567333532,
-        "stop" : 1745567334100,
-        "duration" : 568
+        "start" : 1745569615212,
+        "stop" : 1745569615222,
+        "duration" : 10
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
-      "hasContent" : false,
       "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
     }, {
       "name" : "Click on all directions button",
       "time" : {
-        "start" : 1745567334100,
-        "stop" : 1745567334176,
-        "duration" : 76
+        "start" : 1745569615222,
+        "stop" : 1745569616301,
+        "duration" : 1079
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
-      "hasContent" : false,
       "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
     }, {
       "name" : "Click on software development link in popup",
       "time" : {
-        "start" : 1745567334176,
-        "stop" : 1745567336019,
-        "duration" : 1843
+        "start" : 1745569616301,
+        "stop" : 1745569618169,
+        "duration" : 1868
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
-      "hasContent" : false,
       "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
     }, {
       "name" : "Page url is switched to right url",
       "time" : {
-        "start" : 1745567336020,
-        "stop" : 1745567336044,
-        "duration" : 24
+        "start" : 1745569618169,
+        "stop" : 1745569618183,
+        "duration" : 14
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
-      "hasContent" : false,
       "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
     } ],
     "attachments" : [ {
-      "uid" : "331cef9bb07d3de0",
+      "uid" : "3697d454da89ed06",
       "name" : "Success",
-      "source" : "331cef9bb07d3de0.png",
+      "source" : "3697d454da89ed06.png",
       "type" : "image/png",
-      "size" : 1125890
+      "size" : 1147147
     } ],
     "parameters" : [ ],
-    "stepsCount" : 6,
-    "hasContent" : true,
     "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 6,
+    "hasContent" : true
   },
   "afterStages" : [ {
     "name" : "driver::0",
     "time" : {
-      "start" : 1745567336413,
-      "stop" : 1745567336498,
-      "duration" : 85
+      "start" : 1745569618549,
+      "stop" : 1745569618635,
+      "duration" : 86
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : false,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
   } ],
   "labels" : [ {
     "name" : "feature",
@@ -184,7 +184,7 @@
     "value" : "TestVacanciesPopup"
   }, {
     "name" : "host",
-    "value" : "8093bd4ca056"
+    "value" : "8b641f502e52"
   }, {
     "name" : "thread",
     "value" : "1-MainThread"
@@ -214,11 +214,19 @@
         "failed" : 0,
         "broken" : 1,
         "skipped" : 0,
-        "passed" : 3,
+        "passed" : 4,
         "unknown" : 0,
-        "total" : 4
+        "total" : 5
       },
       "items" : [ {
+        "uid" : "b192ab0096075cc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1745567328283,
+          "stop" : 1745567336412,
+          "duration" : 8129
+        }
+      }, {
         "uid" : "612540aeb91d07ce",
         "status" : "passed",
         "time" : {
@@ -247,6 +255,6 @@
     },
     "tags" : [ "smoke" ]
   },
-  "source" : "b192ab0096075cc.json",
+  "source" : "ce1a58249affe506.json",
   "parameterValues" : [ ]
 }

@@ -1,10 +1,10 @@
 [ {
-  "uid" : "b192ab0096075cc",
+  "uid" : "ce1a58249affe506",
   "name" : "Сlick on element opens popup",
   "time" : {
-    "start" : 1745567328283,
-    "stop" : 1745567336412,
-    "duration" : 8129
+    "start" : 1745569608643,
+    "stop" : 1745569618548,
+    "duration" : 9905
   },
   "status" : "passed",
   "severity" : "critical"
