@@ -1,12 +1,12 @@
 {
-  "uid" : "72cbedcd1ca88461",
+  "uid" : "c1ac3bc241f086d6",
   "name" : "Сlick on element opens popup",
   "fullName" : "tests.test_vacancies_popup.TestVacanciesPopup#test_click_on_element_opens_popup",
   "historyId" : "b19c6519a91295bf22c2fb367564c3ff",
   "time" : {
-    "start" : 1745575832561,
-    "stop" : 1745575842959,
-    "duration" : 10398
+    "start" : 1745576453775,
+    "stop" : 1745576462837,
+    "duration" : 9062
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,9 +14,9 @@
   "beforeStages" : [ {
     "name" : "driver",
     "time" : {
-      "start" : 1745575832117,
-      "stop" : 1745575832560,
-      "duration" : 443
+      "start" : 1745576453349,
+      "stop" : 1745576453774,
+      "duration" : 425
     },
     "status" : "passed",
     "steps" : [ ],
@@ -24,14 +24,14 @@
     "parameters" : [ ],
     "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
-    "hasContent" : false,
-    "stepsCount" : 0
+    "stepsCount" : 0,
+    "hasContent" : false
   }, {
     "name" : "setup",
     "time" : {
-      "start" : 1745575832560,
-      "stop" : 1745575832561,
-      "duration" : 1
+      "start" : 1745576453774,
+      "stop" : 1745576453774,
+      "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
@@ -39,17 +39,17 @@
     "parameters" : [ ],
     "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
-    "hasContent" : false,
-    "stepsCount" : 0
+    "stepsCount" : 0,
+    "hasContent" : false
   } ],
   "testStage" : {
     "status" : "passed",
     "steps" : [ {
       "name" : "Open https://tensor.ru page",
       "time" : {
-        "start" : 1745575832561,
-        "stop" : 1745575837951,
-        "duration" : 5390
+        "start" : 1745576453775,
+        "stop" : 1745576458171,
+        "duration" : 4396
       },
       "status" : "passed",
       "steps" : [ ],
@@ -57,14 +57,14 @@
       "parameters" : [ ],
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "hasContent" : false,
-      "stepsCount" : 0
+      "stepsCount" : 0,
+      "hasContent" : false
     }, {
       "name" : "Click on vacancies link",
       "time" : {
-        "start" : 1745575837951,
-        "stop" : 1745575839766,
-        "duration" : 1815
+        "start" : 1745576458171,
+        "stop" : 1745576459915,
+        "duration" : 1744
       },
       "status" : "passed",
       "steps" : [ ],
@@ -72,14 +72,14 @@
       "parameters" : [ ],
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "hasContent" : false,
-      "stepsCount" : 0
+      "stepsCount" : 0,
+      "hasContent" : false
     }, {
       "name" : "Page https://tensor.ru/vacancies?filter_region=7600000100000000000 is opened",
       "time" : {
-        "start" : 1745575839766,
-        "stop" : 1745575839775,
-        "duration" : 9
+        "start" : 1745576459915,
+        "stop" : 1745576459932,
+        "duration" : 17
       },
       "status" : "passed",
       "steps" : [ ],
@@ -87,14 +87,14 @@
       "parameters" : [ ],
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "hasContent" : false,
-      "stepsCount" : 0
+      "stepsCount" : 0,
+      "hasContent" : false
     }, {
       "name" : "Click on all directions button",
       "time" : {
-        "start" : 1745575839776,
-        "stop" : 1745575840356,
-        "duration" : 580
+        "start" : 1745576459932,
+        "stop" : 1745576460524,
+        "duration" : 592
       },
       "status" : "passed",
       "steps" : [ ],
@@ -102,14 +102,14 @@
       "parameters" : [ ],
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "hasContent" : false,
-      "stepsCount" : 0
+      "stepsCount" : 0,
+      "hasContent" : false
     }, {
       "name" : "Click on software development link in popup",
       "time" : {
-        "start" : 1745575840356,
-        "stop" : 1745575842601,
-        "duration" : 2245
+        "start" : 1745576460524,
+        "stop" : 1745576462433,
+        "duration" : 1909
       },
       "status" : "passed",
       "steps" : [ ],
@@ -117,14 +117,14 @@
       "parameters" : [ ],
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "hasContent" : false,
-      "stepsCount" : 0
+      "stepsCount" : 0,
+      "hasContent" : false
     }, {
       "name" : "Page url is switched to right url",
       "time" : {
-        "start" : 1745575842601,
-        "stop" : 1745575842622,
-        "duration" : 21
+        "start" : 1745576462433,
+        "stop" : 1745576462457,
+        "duration" : 24
       },
       "status" : "passed",
       "steps" : [ ],
@@ -132,27 +132,27 @@
       "parameters" : [ ],
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "hasContent" : false,
-      "stepsCount" : 0
+      "stepsCount" : 0,
+      "hasContent" : false
     } ],
     "attachments" : [ {
-      "uid" : "ad5da9fa33079499",
+      "uid" : "3cf2d83b296cd104",
       "name" : "Success",
-      "source" : "ad5da9fa33079499.png",
+      "source" : "3cf2d83b296cd104.png",
       "type" : "image/png",
       "size" : 1147147
     } ],
     "parameters" : [ ],
     "attachmentsCount" : 1,
     "shouldDisplayMessage" : false,
-    "hasContent" : true,
-    "stepsCount" : 6
+    "stepsCount" : 6,
+    "hasContent" : true
   },
   "afterStages" : [ {
     "name" : "driver::0",
     "time" : {
-      "start" : 1745575842959,
-      "stop" : 1745575843045,
+      "start" : 1745576462838,
+      "stop" : 1745576462924,
       "duration" : 86
     },
     "status" : "passed",
@@ -161,8 +161,8 @@
     "parameters" : [ ],
     "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
-    "hasContent" : false,
-    "stepsCount" : 0
+    "stepsCount" : 0,
+    "hasContent" : false
   } ],
   "labels" : [ {
     "name" : "severity",
@@ -184,7 +184,7 @@
     "value" : "TestVacanciesPopup"
   }, {
     "name" : "host",
-    "value" : "e9e9c178109e"
+    "value" : "60c2947d1432"
   }, {
     "name" : "thread",
     "value" : "1-MainThread"
@@ -214,11 +214,19 @@
         "failed" : 0,
         "broken" : 1,
         "skipped" : 0,
-        "passed" : 5,
+        "passed" : 6,
         "unknown" : 0,
-        "total" : 6
+        "total" : 7
       },
       "items" : [ {
+        "uid" : "72cbedcd1ca88461",
+        "status" : "passed",
+        "time" : {
+          "start" : 1745575832561,
+          "stop" : 1745575842959,
+          "duration" : 10398
+        }
+      }, {
         "uid" : "ce1a58249affe506",
         "status" : "passed",
         "time" : {
@@ -263,6 +271,6 @@
     },
     "tags" : [ "smoke" ]
   },
-  "source" : "72cbedcd1ca88461.json",
+  "source" : "c1ac3bc241f086d6.json",
   "parameterValues" : [ ]
 }

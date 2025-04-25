@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Apr 25 10:10:32 GMT 2025","Fri Apr 25 10:10:42 GMT 2025","10398","tests","test_vacancies_popup","TestVacanciesPopup","","","Сlick on element opens popup",""
+"passed","Fri Apr 25 10:20:53 GMT 2025","Fri Apr 25 10:21:02 GMT 2025","9062","tests","test_vacancies_popup","TestVacanciesPopup","","","Сlick on element opens popup",""
