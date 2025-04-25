@@ -30,7 +30,7 @@ To run the tests and deploy the Allure report via GitHub Actions,
 you must configure the following secrets in **Settings → Secrets and variables → Actions** of your GitHub repository:
 
 | Secret Name           | Description                                 |
-|-----------------------|---------------------------------------------|      |
+|-----------------------|---------------------------------------------|
 | `CI_TOKEN`            | GitHub token for deploying to Pages         |
 
 > ⚠️ These secrets are **required** for the workflow to run properly and for Allure report deployment.
