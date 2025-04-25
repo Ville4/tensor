@@ -4,13 +4,13 @@
     "name" : "Vacancies page functionality",
     "children" : [ {
       "name" : "Сlick on element opens popup",
-      "uid" : "612540aeb91d07ce",
+      "uid" : "b192ab0096075cc",
       "parentUid" : "78ddbfeb8d758f3432729de4b3cd9025",
       "status" : "passed",
       "time" : {
-        "start" : 1745567058588,
-        "stop" : 1745567065693,
-        "duration" : 7105
+        "start" : 1745567328283,
+        "stop" : 1745567336412,
+        "duration" : 8129
       },
       "flaky" : false,
       "newFailed" : false,
