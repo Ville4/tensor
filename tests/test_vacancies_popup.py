@@ -14,3 +14,4 @@ class TestVacanciesPopup(BaseTest):
         self.vacancies_page.click_on_all_directions_button()
         self.vacancies_page.click_on_software_dev_link()
         self.vacancies_page.is_page_url_switched()
+        self.vacancies_page.make_screenshot("Success")
